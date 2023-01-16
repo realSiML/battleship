@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/ООП/battleship/Content/Hit.png","D:/ООП/battleship/Content/bin/DesktopGL/Hit.xnb","TextureProcessor","Texture2DContent",39988,16469,0,2354548
+"D:/ООП/battleship/Content/Mark.png","D:/ООП/battleship/Content/bin/DesktopGL/Mark.xnb","TextureProcessor","Texture2DContent",42955,16469,0,0350108
+"D:/ООП/battleship/Content/Miss.png","D:/ООП/battleship/Content/bin/DesktopGL/Miss.xnb","TextureProcessor","Texture2DContent",38306,16469,0,0261406
